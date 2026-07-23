@@ -1,4 +1,4 @@
-# Infosys Senior Java Developer Interview Handbook
+# Java Developer Interview Handbook
 
 This repository is a practical interview-preparation guide for a **Java Senior Developer – Java, Spring Boot, and Microservices** role, tailored to approximately **4 years 8 months of experience**.
 
